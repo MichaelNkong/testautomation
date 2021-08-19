@@ -1,2 +1,2 @@
 # testautomation
-Maintainable test automation framework using, selenium webdriver, TestnG, java und Eclipse IDE
+Maintainable test automation framework using: Selenium webdriver, TestnG, Java und Eclipse IDE
